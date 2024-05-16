@@ -22,5 +22,5 @@ yarn dev
 
 ### How to repro
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-- If you land on `/` click the `Go to error demo` link or got to [http://localhost:3000/error-demo](http://localhost:3000/error-demo)
+- If you land on `/` click the `Go to error demo` link or go to [http://localhost:3000/error-demo](http://localhost:3000/error-demo)
 - Clicking on any button dispatches an upsert in the `modalsSlice` and should show the error, also prints it in the console.
